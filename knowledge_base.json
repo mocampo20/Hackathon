@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Account Access",
+    "title": "Account recovery process",
+    "content": "For account access issues, validate the customer's identity, confirm the email associated with the account, and guide them through password reset or MFA recovery. Never ask for full passwords."
+  },
+  {
+    "category": "Billing",
+    "title": "Duplicate charge policy",
+    "content": "For duplicate charges, confirm invoice ID, transaction date, amount, and payment method. If duplicate billing is confirmed, create a refund review request."
+  },
+  {
+    "category": "Refund",
+    "title": "Refund review",
+    "content": "Refund requests require order ID, payment confirmation, reason for refund, and eligibility review according to the refund policy."
+  },
+  {
+    "category": "Order Tracking",
+    "title": "Delayed tracking",
+    "content": "For delayed tracking updates, verify order ID, carrier, last known status, and shipping address. Escalate if tracking has not updated for more than 72 hours."
+  },
+  {
+    "category": "Cancellation",
+    "title": "Subscription cancellation",
+    "content": "Cancellation requests should confirm the account email, subscription plan, renewal date, and whether the customer wants immediate cancellation or end-of-cycle cancellation."
+  },
+  {
+    "category": "Technical Issue",
+    "title": "Technical troubleshooting",
+    "content": "For technical issues, collect device, operating system, app version, error message, steps to reproduce, and screenshots if available."
+  },
+  {
+    "category": "General Inquiry",
+    "title": "Product plan questions",
+    "content": "For general plan inquiries, explain available plans, recommend a plan based on company size and needs, and offer to connect with sales if required."
+  }
+]
